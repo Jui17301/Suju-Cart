@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Sarah Thompson",
+    "image": "https://dreamsports.dreamstechnologies.com/react/template/assets/img/profiles/user-01.jpg",
+    "feedback": "Shopping for furniture has never been easier! The platform is super user-friendly, and I love how quickly I can find the perfect pieces for my living room. Highly recommend!",
+    "statue": "Quality Matters"
+  },
+  {
+    "name": "Michael Rodriguez",
+    "image": "https://dreamsports.dreamstechnologies.com/react/template/assets/img/profiles/user-02.jpg",
+    "feedback": "This furniture platform is a game-changer for our home. We can easily find and purchase high-quality furniture without any hassle. The customer support is top-notch too!",
+    "statue": "Excellent Professionalism"
+  },
+  {
+    "name": "Emily Chen",
+    "image": "https://dreamsports.dreamstechnologies.com/react/template/assets/img/profiles/user-03.jpg",
+    "feedback": "I love how this platform has made finding and purchasing office furniture so convenient. The variety of options and the ease of use are just fantastic!",
+    "statue": "Quality Matters"
+  },
+  {
+    "name": "David Patel",
+    "image": "https://dreamsports.dreamstechnologies.com/react/template/assets/img/profiles/user-04.jpg",
+    "feedback": "The shopping experience is seamless! I can always find stylish furniture pieces for my home, and the reminders for sales make sure I never miss a good deal. Great job!",
+    "statue": "Excellent Professionalism"
+  },
+  {
+    "name": "Jessica Lee",
+    "image": "https://dreamsports.dreamstechnologies.com/react/template/assets/img/profiles/user-02.jpg",
+    "feedback": "Finding and purchasing outdoor furniture has never been this easy. The platform is incredibly efficient, and I appreciate the detailed descriptions and reviews for each item. A must-use for any home decorator!",
+    "statue": "Quality Matters"
+  },
+  {
+    "name": "James Smith",
+    "image": "https://dreamsports.dreamstechnologies.com/react/template/assets/img/profiles/user-01.jpg",
+    "feedback": "I had an amazing experience purchasing my new dining set. The delivery was prompt, and the quality of the furniture exceeded my expectations. Highly satisfied!",
+    "statue": "Excellent Professionalism"
+  }
+]

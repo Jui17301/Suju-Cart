@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Sofa",
+    "price": 599.99,
+    "category": "Living Room",
+    "description": "A comfortable and stylish sofa, perfect for relaxing in your living room.",
+    "image": "https://i.ibb.co.com/WBKTb57/770-Santa-Ynez-Family-Room-011-82636c6ea1df487eb70fa8ed313a6369.jpg",
+    "isDeleted": false
+  },
+  {
+    "name": "Dining Table",
+    "price": 349.99,
+    "category": "Dining Room",
+    "description": "A spacious dining table that can seat up to 6 people, made from solid wood.",
+    "image": "https://i.ibb.co.com/2ZBGGwM/DS10001651.webp",
+    "isDeleted": false
+  },
+  {
+    "name": "Office Chair",
+    "price": 129.99,
+    "category": "Office Furniture",
+    "description": "An ergonomic office chair that provides comfort during long working hours.",
+    "image": "https://i.ibb.co.com/5Bpg2Yw/White-Ergonomic-Executive-Office-Chair.jpg",
+    "isDeleted": false
+  },
+  {
+    "name": "Bookshelf",
+    "price": 199.99,
+    "category": "Living Room",
+    "description": "A stylish bookshelf that offers ample space for books and decor.",
+    "image": "https://i.ibb.co.com/4PGczw8/PRPC-WSBH-0004-1-5.webp",
+    "isDeleted": false
+  },
+  {
+    "name": "Coffee Table",
+    "price": 149.99,
+    "category": "Living Room",
+    "description": "A modern coffee table that complements any living room decor.",
+    "image": "https://i.ibb.co.com/zHjJs2H/TIFF009-A-1-Supersize.jpg",
+    "isDeleted": false
+  },
+  {
+    "name": "Bed Frame",
+    "price": 399.99,
+    "category": "Bedroom",
+    "description": "A sturdy bed frame designed for durability and comfort.",
+    "image": "https://i.ibb.co.com/fNw2crf/PULSAR-WHITE.jpg",
+    "isDeleted": false
+  },
+  {
+    "name": "Nightstand",
+    "price": 89.99,
+    "category": "Bedroom",
+    "description": "A simple yet elegant nightstand with a drawer for storage.",
+    "image": "https://i.ibb.co.com/Zf0QmK5/c26be298-65dd-44ce-986f-fbf1c70d7295-1-71841f6ecf9f481835068c0cc53b4fda.webp",
+    "isDeleted": false
+  },
+  {
+    "name": "Dining Chairs",
+    "price": 79.99,
+    "category": "Dining Room",
+    "description": "Set of 4 dining chairs with a modern design, perfect for any dining table.",
+    "image": "https://i.ibb.co.com/HqRnB9w/71-NKw733-Yu-L-AC-SL1500.jpg",
+    "isDeleted": false
+  },
+  {
+    "name": "Storage Ottoman",
+    "price": 149.99,
+    "category": "Living Room",
+    "description": "A versatile storage ottoman that can serve as a seat or a footrest.",
+    "image": "https://i.ibb.co.com/8NQ1JfK/bcc3e095-229c-48ff-a015-85db900fc9b9-2-836998602521eea167338eb34aaf5fce.jpg",
+    "isDeleted": false
+  },
+  {
+    "name": "Wardrobe",
+    "price": 499.99,
+    "category": "Bedroom",
+    "description": "A spacious wardrobe with multiple compartments for all your clothing needs.",
+    "image": "https://i.ibb.co.com/FbB2BPX/WHITE-WARDROBE-IDEAS-5.jpg",
+    "isDeleted": false
+  }
+]
