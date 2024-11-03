@@ -81,8 +81,8 @@ const Categories: React.FC = () => {
       }`}
     >
       <div className="max-w-Container mx-auto px-5 xl:px-0">
-        <div className="text-center mb-5">
-          <h2 className="text-3xl font-semibold gradient mb-3">
+        <div className="text-center space-y-3 mb-5">
+          <h2 className="text-3xl font-semibold gradient font-poppe">
             Our Categories
           </h2>
           <p

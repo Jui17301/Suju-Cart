@@ -31,7 +31,7 @@ const TestimonialSlide = () => {
       className={`pt-10 pb-20 ${isDarkMode ? "bg-gray-700" : "bg-[#f5f8fc]"}`}
     >
       {/* Heading */}
-      <div className="text-center mb-8">
+      <div className="text-center mb-8 space-y-3">
         <h2
           className={`text-3xl font-semibold gradient font-poppe ${
             isDarkMode ? "text-white" : "text-[#1A1A1A]"
