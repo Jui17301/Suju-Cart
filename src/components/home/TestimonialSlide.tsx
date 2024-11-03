@@ -33,7 +33,7 @@ const TestimonialSlide = () => {
       {/* Heading */}
       <div className="text-center mb-8">
         <h2
-          className={`text-2xl md:text-5xl font-semibold mb-2 md:mb-8 ${
+          className={`text-3xl font-semibold gradient font-poppe ${
             isDarkMode ? "text-white" : "text-[#1A1A1A]"
           }`}
         >
@@ -41,7 +41,7 @@ const TestimonialSlide = () => {
         </h2>
         {/* Description */}
         <p
-          className={`text-base md:text-lg max-w-[570px] mx-auto text-center ${
+          className={`text-foreground max-w-[570px] mx-auto text-center ${
             isDarkMode ? "text-gray-300" : "text-[#333]"
           }`}
         >
