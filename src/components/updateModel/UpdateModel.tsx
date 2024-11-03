@@ -153,16 +153,16 @@ const UpdateModel = ({
                     label="Category"
                     {...register("category", { required: true })}
                   >
-                    <SelectItem key="1" value="Bedroom">
+                    <SelectItem key="Bedroom" value="Bedroom">
                       Bedroom
                     </SelectItem>
-                    <SelectItem key="2" value="Dining Room">
+                    <SelectItem key="Dining Room" value="Dining Room">
                       Dining Room
                     </SelectItem>
-                    <SelectItem key="3" value="Living Room">
+                    <SelectItem key="Living Room" value="Living Room">
                       Living Room
                     </SelectItem>
-                    <SelectItem key="4" value="Office Furniture">
+                    <SelectItem key="Office Furniture" value="Office Furniture">
                       Office Furniture
                     </SelectItem>
                   </Select>

@@ -6,7 +6,7 @@ import Table from "@/components/ui/Table";
 const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL;
 
 const Overview = async () => {
-  const products = await fetch(`${process.env.BACKEND_URL}/api/product`);
+  const products = await fetch(`${BACKEND_URL}/api/product`);
   const { data } = await products.json();
 
   const TotalCulcolition = await fetch(
