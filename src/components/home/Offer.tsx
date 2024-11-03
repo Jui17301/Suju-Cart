@@ -40,7 +40,7 @@ const Offer = () => {
             </h2>
             <Button
               as={Link}
-              href="/products"
+              href="/product"
               color={isDarkMode ? "primary" : "warning"}
             >
               Buy Now
