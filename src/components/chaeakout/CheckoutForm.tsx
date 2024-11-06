@@ -41,7 +41,7 @@ const CheckoutForm = (props: CheckoutFormProps) => {
   const { products } = useAppSelector((store) => store.cart);
 
   // Get the backend URL from environment variables
-  // const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL;
+  const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL;
 
   // Use the productsId from props instead of computing it
   const productsId =
@@ -76,7 +76,7 @@ const CheckoutForm = (props: CheckoutFormProps) => {
       const amountInCents = Math.round(props.totalAmount * 100);
 
       const { data } = await axios.post(
-        "https://suju-cart-server.vercel.app/api/bookings/payment-intent",
+        `${BACKEND_URL}/api/bookings/payment-intent`,
         { amount: amountInCents, order },
         {
           headers: {
@@ -109,7 +109,7 @@ const CheckoutForm = (props: CheckoutFormProps) => {
 
         // Save booking information to the server
         await axios.post(
-          "https://suju-cart-server.vercel.app/api/bookings",
+          `${BACKEND_URL}/api/bookings`,
           {
             ...order,
             paymentIntentId: paymentIntent.id,
